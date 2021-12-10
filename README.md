@@ -37,27 +37,26 @@ Yalnızca "kimlik avının nasıl çalıştığını" gösterir. <b>Birinin sosy
 
 ### Features
 
-- Latest and updated login pages.
-- Mask URL support 
-- Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
-  - Cloudflared (Alternative of Ngrok)
+- En son ve güncellenmiş giriş sayfaları.
+- Maske URL desteği
+- Yeni başlayanlar dostu
+- Docker desteği ('docker-legacy' dalını kontrol edin)
+- Çoklu tünel seçenekleri
+  - Yerel ana bilgisayar
+  - Ngrok (Hotspot ile veya hotspot olmadan)
+  - Bulut Parlaması (Ngrok'un Alternatifi)
 
+### Kurulum
 
-### Installation
-
-- Just, Clone this repository -
+- Sadece, bu depoyu klonla -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone git://github.com/Gece-Sploit
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Klonlanmış dizine geçin ve daeky.sh'yi çalıştırın -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd daeky
+$ bash daeky.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
