@@ -35,11 +35,11 @@ Yalnızca "kimlik avının nasıl çalıştığını" gösterir. <b>Birinin sosy
 
 ##
 
-### Features
+### Özellikler
 
 - En son ve güncellenmiş giriş sayfaları.
 - Maske URL desteği
-- Yeni başlayanlar dostu
+- Yeni başlayanların dostu
 - Docker desteği ('docker-legacy' dalını kontrol edin)
 - Çoklu tünel seçenekleri
   - Yerel ana bilgisayar
@@ -59,25 +59,25 @@ $ cd daeky
 $ bash daeky.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `Gece-Sploit` is installed.
 
-### Run on Docker
+### Dockerde Çalıştırma
 ```
 $ docker pull htrtech/zphisher
 $ docker run --rm -it htrtech/zphisher
 ```
 
-### Dependencies
+### Gerekli Programlar
 
-**`Zphisher`** requires following programs to run properly - 
+**`Gece-Sploit`** düzgün çalışması için aşağıdaki programları gerektirir - 
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> Gece-Sploit'i ilk kez çalıştırdığınızda tüm Gerekli Programlar otomatik olarak yüklenecektir..
 
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
+> Desteklenen Platformlar : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
 
 
