@@ -82,7 +82,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  Daeky (https://github.com/Daeky03)
 ##
 
 
