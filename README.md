@@ -59,12 +59,11 @@ $ cd daeky
 $ bash daeky.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Gece-Sploit` is installed.
 
 ### Dockerde Çalıştırma
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull Gece-Sploit/daeky
+$ docker run --rm -it Gece-Sploit/daeky
 ```
 
 ### Gerekli Programlar
