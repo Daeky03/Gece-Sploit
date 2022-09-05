@@ -42,9 +42,9 @@ Yalnızca "kimlik avının nasıl çalıştığını" gösterir. <b>Birinin sosy
 - Yeni başlayanların dostu
 - Docker desteği ('docker-legacy' dalını kontrol edin)
 - Çoklu tünel seçenekleri
-  - Yerel ana bilgisayar
+  - Yerel ana bilgisayar (önermem)
   - Ngrok (Hotspot ile veya hotspot olmadan)
-  - Bulut Parlaması (Ngrok'un Alternatifi)
+  - CloudFlare (Ngrok'un Alternatifi)
 
 ### Kurulum
 
